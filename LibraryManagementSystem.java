@@ -16,7 +16,7 @@ public class LibraryManagementSystem {
         librarian.displayBooks();
 
         // Creating a member
-        Member member = new Member("Bob", "M001");
+        Member member = new Member("Harsh", "M001");
 
         // Member borrows a book
         member.borrowBook(book1);
