@@ -1,7 +1,7 @@
 public class LibraryManagementSystem {
     public static void main(String[] args) {
         // Creating a librarian
-        Librarian librarian = new Librarian("Alice");
+        Librarian librarian = new Librarian("Laura");
 
         // Adding books to the library
         Book book1 = new Book("Atomic Habits", "James Clear", "1234567890");
